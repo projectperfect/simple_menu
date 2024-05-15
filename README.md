@@ -1,2 +1,2 @@
 # simple_menu
-Simple menu built with C++
+Simple terminal menu built with C++
